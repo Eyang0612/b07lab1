@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Desktop/website"
+		},
+		{
+			"path": "../Desktop/JavaPractice"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "website"
+	}
+}
