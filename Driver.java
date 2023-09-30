@@ -44,7 +44,6 @@ public class Driver {
             System.out.println(a);
     for (int a : z.Exponents)
             System.out.println(a);
-    System.out.println("///////");
     System.out.println("z(0.1) = " + z.evaluate(0.1));
     if(z.hasRoot(1))
     System.out.println("1 is a root of z");
